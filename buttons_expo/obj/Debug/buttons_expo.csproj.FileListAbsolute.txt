@@ -1,0 +1,11 @@
+C:\Users\aguil\source\repos\buttons_expo\buttons_expo\bin\Debug\buttons_expo.exe.config
+C:\Users\aguil\source\repos\buttons_expo\buttons_expo\bin\Debug\buttons_expo.exe
+C:\Users\aguil\source\repos\buttons_expo\buttons_expo\bin\Debug\buttons_expo.pdb
+C:\Users\aguil\source\repos\buttons_expo\buttons_expo\obj\Debug\buttons_expo.csproj.AssemblyReference.cache
+C:\Users\aguil\source\repos\buttons_expo\buttons_expo\obj\Debug\buttons_expo.csproj.SuggestedBindingRedirects.cache
+C:\Users\aguil\source\repos\buttons_expo\buttons_expo\obj\Debug\buttons_expo.Form1.resources
+C:\Users\aguil\source\repos\buttons_expo\buttons_expo\obj\Debug\buttons_expo.Properties.Resources.resources
+C:\Users\aguil\source\repos\buttons_expo\buttons_expo\obj\Debug\buttons_expo.csproj.GenerateResource.cache
+C:\Users\aguil\source\repos\buttons_expo\buttons_expo\obj\Debug\buttons_expo.csproj.CoreCompileInputs.cache
+C:\Users\aguil\source\repos\buttons_expo\buttons_expo\obj\Debug\buttons_expo.exe
+C:\Users\aguil\source\repos\buttons_expo\buttons_expo\obj\Debug\buttons_expo.pdb
